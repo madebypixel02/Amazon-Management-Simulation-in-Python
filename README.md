@@ -1,4 +1,4 @@
-# Amazon-Management-Simulation-in-Python | uc3m
+# Python Amazon Management Simulation | uc3m
 
 *The not-so-amazing power of management 😮‍💨*
 
